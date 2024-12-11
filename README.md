@@ -55,7 +55,19 @@ The project incorporates Object-Oriented Programming (OOP) principles to ensure 
 - The inclusion of the colors red, green, and yellow makes it easier for the user to determine the integrity of their password.
 
 
+---
+
+
+
+## INSTRUCTURES OF RUNNING THE PROGRAM
+1. **Download all the java classes.**
+- Make sure that all of the classes are entirely downloaded; otherwise, the program will not function.
+2. **Run the cypher.java**
+- Only execute the application from the cypher.java file.
+
+
 
 
 
 ---
+
